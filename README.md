@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-The records are using the oficila code from IBGE
+The records are using the oficial code from [IBGE](https://www.ibge.gov.br/)
 
 5 Regions (Norte, Nordeste, Sudeste, Sul, Centro-Oeste)
 
